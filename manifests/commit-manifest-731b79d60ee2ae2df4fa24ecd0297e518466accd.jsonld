@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/psf/bpo-tracker-jython/commit/731b79d60ee2ae2df4fa24ecd0297e518466accd",
+  "@type": "git:Commit",
+  "git:hexsha": "731b79d60ee2ae2df4fa24ecd0297e518466accd",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/psf/bpo-tracker-jython"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/731b79d60ee2ae2df4fa24ecd0297e518466accd.nq.gz",
+      "repolex:graphFileSize": 10578
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 10786
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 414
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T08:03:58.970411+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
