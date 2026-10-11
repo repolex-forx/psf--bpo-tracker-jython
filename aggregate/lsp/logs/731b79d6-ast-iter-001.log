@@ -1,0 +1,7 @@
+[2026-10-11T08:05:23Z] === AST ITERATION 1 START | repo=psf/bpo-tracker-jython sha=731b79d6 ===
+[2026-10-11T08:05:23Z] [iter=1] PHASE START: ast repo=psf/bpo-tracker-jython sha=731b79d6
+[2026-10-11T08:05:23Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T08:05:33Z] [iter=1] AST chunks built count=1 triples=118578
+[2026-10-11T08:05:33Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/731b79d60ee2ae2df4fa24ecd0297e518466accd/.complete
+[2026-10-11T08:05:33Z] [iter=1] PHASE END: ast elapsed_s=10 elapsed_min=0.2
+[2026-10-11T08:05:33Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

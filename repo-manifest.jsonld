@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/bpo-tracker-jython/commit/731b79d60ee2ae2df4fa24ecd0297e518466accd",
       "git:hexsha": "731b79d60ee2ae2df4fa24ecd0297e518466accd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
